@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer from Peru with a strong passion for frontend development. I enjoy crafting beautiful and functional user experiences with modern tools like React and Tailwind CSS, while also having the skills to build reliable backend systems when needed.</h3>
 <h3>🛠️ Skills</h3>
 <ul>
-  <li><strong>Frontend (Main Focus):</strong> React, Next.js, TypeScript, Tailwind CSS</li>
+  <li><strong>Frontend (Main Focus):</strong> React, Next.js, Angular, TypeScript, Tailwind CSS</li>
   <li><strong>Backend:</strong> Node.js, Express, Django, Flask</li>
   <li><strong>Database:</strong> MongoDB, PostgreSQL, MySQL</li>
   <li><strong>Tools:</strong> Git, Docker, Vercel</li>
