@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">I'm a Frontend Developer from Peru passionate about building beautiful and responsive user interfaces. I specialize in modern technologies like React, Next.js, and Tailwind CSS to create seamless digital experiences.</h3>
+<h3 align="center">I'm a Software Developer from Peru, passionate about building high-quality and scalable digital solutions. I work across the stack, with a strong focus on frontend development, creating clean, responsive, and user-friendly interfaces using modern technologies.
+</h3>
 <h3>🛠️ Skills</h3>
 <ul>
   <li><strong>Frontend (Main Focus):</strong> React, Next.js, Angular, TypeScript, Tailwind CSS</li>
