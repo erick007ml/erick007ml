@@ -3,8 +3,8 @@
 <h3>🛠️ Skills</h3>
 <ul>
   <li><strong>Frontend (Main Focus):</strong> React, Next.js, Angular, TypeScript, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express, Django, Flask</li>
-  <li><strong>Database:</strong> MongoDB, PostgreSQL, MySQL</li>
+  <li><strong>Backend:</strong> Node.js, Express, .NET Core (ASP.NET Core), Django, Flask</li>
+  <li><strong>Database:</strong> PostgreSQL, MySQL, SQL Server</li>
   <li><strong>Tools:</strong> Git, Docker, Vercel</li>
 </ul>
 
